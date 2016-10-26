@@ -33,11 +33,17 @@ div {
 
 .btn-subtle:hover {
   background-color: #666;
+  border-color: #666;
 }
 
 .btn-ghost {
   background-color: #fff;
   color: #333;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+  border-color: #666;
 }
 
 .btn-warning {
