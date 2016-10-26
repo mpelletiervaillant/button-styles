@@ -26,6 +26,7 @@ div {
 .btn:hover {
   background-color: #000;
 }
+
 .btn-subtle {
   background-color: #ccc;
   border-color: #ccc;
